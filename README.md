@@ -15,7 +15,7 @@ Este é o backend da aplicação desenvolvida para o teste técnico da Eightware
 
 1. Clone o repositório:
    ```bash
-   git clone <URL_DO_REPOSITORIO_BACKEND>
+   git clone https://github.com/luckslima/eightware-tech-test-backend.git
    cd backend
 
 2. Instale as dependências:
